@@ -3,14 +3,11 @@
 *.pkl
 *.png
 *.py[cod]
-*_config.json
-*_credentials.json
 .github
 .idea/
 .profile
 .profile-amz*
 .vscode/
-/config/*.json
 /config/apprise.conf
 Pipfile.lock
 __pycache__/
